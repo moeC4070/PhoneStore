@@ -1,0 +1,9 @@
+-std=c++17
+-x
+c++
+-I
+src
+-I
+node_modules/node-addon-api
+-I
+C:/Users/DELL/AppData/Local/node-gyp/Cache/22.13.1/include/node
